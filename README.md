@@ -1,0 +1,1 @@
+In this project I will be building a basic recipe website using strictly HTML. I will use anchor tags to link to various recipes.
